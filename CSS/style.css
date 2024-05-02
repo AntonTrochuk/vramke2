@@ -1,0 +1,90 @@
+body {
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+}
+
+
+
+header {
+    /* Верхняя шапка*/
+    height: 105px; /* Высота шапки */
+    background-color: rgb(38, 38, 233);
+    margin: 0;
+    padding: 20px;
+    padding-top: 0;
+}
+
+/* содержание main */
+.navigation {
+    display: grid;
+    grid-template-columns: 300px 1fr 300px; 
+    column-gap: 80px;
+    align-items: center;
+    
+}
+
+.menu {
+    list-style-type: none; /* Убирает маркеры */
+    display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-items {
+    text-decoration: none; /* Убирает подчеркивание */
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    
+}
+
+.menu-items:hover {
+    color: rgb(211, 17, 91);
+}
+
+.menu-social {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 60px 60px 60px;
+    gap: 10px;
+  
+  margin: 0;
+  padding-right: 20px;
+}
+
+.menu-social-media {
+    margin: 0;
+    padding: 15px;
+    display: block;
+}
+
+.menu-social-media:hover {
+    filter: brightness(50%);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    height: 405px;
+    background-color: black;
+}
+
+
+
+.logo {
+
+
+}
