@@ -1,70 +1,132 @@
+:root {
+    /*----- Палитра -----*/
+    --header-background-color: rgb(38, 38, 233);
+    --header2-background-color: rgb(205, 205, 212);
+    /*----- Шрифты -----*/
+    --header-font-family: "Comfortaa", sans-serif;
+    --header-font-weight: 700;
+    --header-text-transform: uppercase;
+    --header-font-size: 18px;
+    
+}
+
+
 body {
+    margin: 0;
     font-family: "Comfortaa", sans-serif;
     font-weight: 700;
-    font-size: large;
-    color: white;
 }
 
-
-
-header {
-    /* Верхняя шапка*/
-    height: 105px; /* Высота шапки */
-    background-color: rgb(38, 38, 233);
-    margin: 0;
-    padding: 20px;
-    padding-top: 0;
+.header-background {
+    background-color: var(--header-background-color);
+    margin-bottom: -16px;
 }
 
-/* содержание main */
-.navigation {
-    display: grid;
-    grid-template-columns: 300px 1fr 300px; 
-    column-gap: 80px;
-    align-items: center;
+.home-navigation {
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
     
-}
-
-.menu {
-    list-style-type: none; /* Убирает маркеры */
+    background-color: var(--header-background-color);
     display: flex;
-  justify-content: space-between;
-  margin: 0;
-  padding: 0;
-}
-
-.menu-items {
-    text-decoration: none; /* Убирает подчеркивание */
-    color: white;
-    margin: 5px;
-    padding: 10px;
-    
-}
-
-.menu-items:hover {
-    color: rgb(211, 17, 91);
+    justify-content: space-between;
+    align-items: center;
 }
 
 .menu-social {
-    list-style-type: none;
-    display: grid;
-    grid-template-columns: 60px 60px 60px;
-    gap: 10px;
-  
-  margin: 0;
-  padding-right: 20px;
+    list-style: none;
+    display: flex;   
 }
 
-.menu-social-media {
+.menu-social-li:hover {
+    opacity: 0.5;
+}
+
+.additional-navigation-background {
+    background-color: var(--header2-background-color);
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.additional-navigation {
+    height: 35px;
     margin: 0;
-    padding: 15px;
-    display: block;
+    background-color: var(--header2-background-color);
 }
 
-.menu-social-media:hover {
-    filter: brightness(50%);
+.navigation-menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    align-items: end;
+    padding-top: 10px;
+    padding-left: 0;
+}
+
+.navigation-menu-items {
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.navigation-menu-items:hover {
+    color: red;
+}
+
+.widget {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.conteiner {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.conteiner-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    flex-wrap: wrap;
+}
+
+.conteiner-item {
+    box-shadow: 0 4px 30px rgba(22, 49, 82, 0.12);
+    transition: transform 0.3s ease;
+}
+
+.conteiner-item-link {
+    text-decoration: none;
+    color: black;
+}
+
+.conteiner-item:hover {
+    transform: translateY(-10px);
 
 }
+
+.conteiner-item-text {
+    margin-left: 15px;
+    margin-right: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -78,13 +140,6 @@ header {
 
 
 footer {
-    height: 405px;
+    height: 200px;
     background-color: black;
-}
-
-
-
-.logo {
-
-
 }

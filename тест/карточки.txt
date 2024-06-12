@@ -1,0 +1,28 @@
+<div class="card-product"> 
+                <ul class="card-product-item">
+                    <li class="card-product-item_s one">
+                        <ul class="card-product-item-1">
+                            <li><img class="card-product-image" src="img/pr3.png" width="250px" height="250px"></li>   
+                        </ul>
+                        <p class="price"> фото на документы</p>
+                        <h2 class="price">100 р</h2>
+                        <a class="href-price-1" href="#"><h2 class="price price-1"> ЗАКАЗАТЬ</h2></a>
+                    </li>
+                    <li class="card-product-item_s two">
+                        <ul class="card-product-item-1">
+                            <li><img class="card-product-image" src="img/90.png" width="250px" height="250px"></li>   
+                        </ul>
+                        <p class="price"> фото на документы</p>
+                        <h2 class="price">100 р</h2>
+                        <a class="href-price-1" href="#"><h2 class="price price-1"> ЗАКАЗАТЬ</h2></a>
+                    </li>
+                    <li class="card-product-item_s three">
+                        <ul class="card-product-item-1">
+                            <li><img class="card-product-image" src="img/fotobum9.png" width="250px" height="250px"></li>   
+                        </ul>
+                        <p class="price"> фото на документы</p>
+                        <h2 class="price">100 р</h2>
+                        <a class="href-price-1" href="#"><h2 class="price price-1"> ЗАКАЗАТЬ</h2></a>
+                    </li>
+                </ul>    
+            </div> 

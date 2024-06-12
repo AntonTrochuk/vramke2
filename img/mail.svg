@@ -4,25 +4,7 @@
 <desc>Created with Fabric.js 3.6.2</desc>
 <defs>
 </defs>
-<g transform="matrix(3.13 0 0 3.13 200 200)" id="Layer_1"  >
-<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(119,179,212); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="32" />
-</g>
-<g transform="matrix(3.13 0 0 3.13 200 206.25)" id="Layer_1"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(35,31,32); fill-rule: nonzero; opacity: 0.2;"  transform=" translate(-32, -34)" d="M 52 44 c 0 2.209 -1.791 4 -4 4 H 16 c -2.209 0 -4 -1.791 -4 -4 V 24 c 0 -2.209 1.791 -4 4 -4 h 32 c 2.209 0 4 1.791 4 4 V 44 z" stroke-linecap="round" />
-</g>
-<g transform="matrix(3.13 0 0 3.13 200 200)" id="Layer_1"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(224,224,209); fill-rule: nonzero; opacity: 1;"  transform=" translate(-32, -32)" d="M 52 42 c 0 2.209 -1.791 4 -4 4 H 16 c -2.209 0 -4 -1.791 -4 -4 V 22 c 0 -2.209 1.791 -4 4 -4 h 32 c 2.209 0 4 1.791 4 4 V 42 z" stroke-linecap="round" />
-</g>
-<g transform="matrix(3.13 0 0 3.13 200 216.52)" id="Layer_1"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(35,31,32); fill-rule: nonzero; opacity: 0.2;"  transform=" translate(-32, -37.29)" d="M 35.524 30.185 c -1.938 -2.146 -5.109 -2.146 -7.047 0 L 13.05 43.228 c -0.18 0.199 -0.328 0.393 -0.461 0.585 C 13.29 45.119 14.549 46 16 46 h 32 c 1.451 0 2.71 -0.881 3.411 -2.187 c -0.133 -0.191 -0.281 -0.385 -0.461 -0.585 L 35.524 30.185 z" stroke-linecap="round" />
-</g>
-<g transform="matrix(3.13 0 0 3.13 200 219.65)" id="Layer_1"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(224,224,209); fill-rule: nonzero; opacity: 1;"  transform=" translate(-32, -38.29)" d="M 35.524 32 c -1.938 -1.9 -5.109 -1.9 -7.047 0 L 13.05 43.546 c -0.18 0.176 -0.328 0.348 -0.461 0.517 C 13.29 45.22 14.549 46 16 46 h 32 c 1.451 0 2.71 -0.78 3.411 -1.936 c -0.133 -0.169 -0.281 -0.341 -0.461 -0.517 L 35.524 32 z" stroke-linecap="round" />
-</g>
-<g transform="matrix(3.13 0 0 3.13 200 183.48)" id="Layer_1"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(35,31,32); fill-rule: nonzero; opacity: 0.2;"  transform=" translate(-32, -26.71)" d="M 12.589 20.187 C 13.29 18.881 14.549 18 16 18 h 32 c 1.451 0 2.71 0.881 3.411 2.187 c -0.133 0.191 -0.281 0.385 -0.461 0.585 L 35.524 33.815 c -1.938 2.146 -5.109 2.146 -7.047 0 L 12.589 20.187 z" stroke-linecap="round" />
-</g>
-<g transform="matrix(3.13 0 0 3.13 200 180.35)" id="Layer_1"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-32, -25.71)" d="M 28.476 32 c 1.938 1.9 5.109 1.9 7.047 0 L 50.95 20.454 c 0.18 -0.176 0.328 -0.348 0.461 -0.517 C 50.71 18.78 49.451 18 48 18 H 16 c -1.451 0 -2.71 0.78 -3.411 1.936 c 0.133 0.169 0.281 0.341 0.461 0.517 L 28.476 32 z" stroke-linecap="round" />
+<g transform="matrix(4.17 0 0 4.17 200 200)" id="_8-Email"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-24, -24)" d="M 45 7 H 3 a 3 3 0 0 0 -3 3 V 38 a 3 3 0 0 0 3 3 H 45 a 3 3 0 0 0 3 -3 V 10 A 3 3 0 0 0 45 7 Z m -0.64 2 L 24 24.74 L 3.64 9 Z M 2 37.59 V 10.26 L 17.41 22.17 Z M 3.41 39 L 19 23.41 l 4.38 3.39 a 1 1 0 0 0 1.22 0 L 29 23.41 L 44.59 39 Z M 46 37.59 L 30.59 22.17 L 46 10.26 Z" stroke-linecap="round" />
 </g>
 </svg>
